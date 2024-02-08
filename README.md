@@ -1,7 +1,7 @@
-##Craps Game
+# Craps Game
 This is a simple console-based implementation of the popular dice game "Craps" written in C#. The game allows players to bet on the outcome of dice rolls, simulating the experience of being at a real craps table.
 
-#How to Play
+## How to Play
 Start the Game: Run the program and follow the on-screen instructions.
 
 **Betting:**
@@ -25,7 +25,7 @@ Playing Again: After each round, you can choose to play again or exit the game.
 
 **Game Over:** game ends when you run out of coins.
 
-#Features
+## Features
 Simulates the basic rules of craps.
 Allows betting with or against the shooter.
 Random dice rolling using the Random class.
@@ -36,9 +36,9 @@ Open the project in Visual Studio or any C# compatible IDE.
 Build and run the program.
 Follow the on-screen instructions to play the game.
 
-#Requirements
+## Requirements
 .NET Core SDK (for running and building the program)
 
-#Contributions
+## Contributions
 Contributions to improve the game, add features, or fix bugs are welcome. Feel free to fork the repository, make your changes, and submit a pull request.
 
