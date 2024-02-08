@@ -1,0 +1,14 @@
+C:\Users\ramon\Desktop\Practice\Krapz\bin\Debug\net8.0\Krapz.exe
+C:\Users\ramon\Desktop\Practice\Krapz\bin\Debug\net8.0\Krapz.deps.json
+C:\Users\ramon\Desktop\Practice\Krapz\bin\Debug\net8.0\Krapz.runtimeconfig.json
+C:\Users\ramon\Desktop\Practice\Krapz\bin\Debug\net8.0\Krapz.dll
+C:\Users\ramon\Desktop\Practice\Krapz\bin\Debug\net8.0\Krapz.pdb
+C:\Users\ramon\Desktop\Practice\Krapz\obj\Debug\net8.0\Krapz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramon\Desktop\Practice\Krapz\obj\Debug\net8.0\Krapz.AssemblyInfoInputs.cache
+C:\Users\ramon\Desktop\Practice\Krapz\obj\Debug\net8.0\Krapz.AssemblyInfo.cs
+C:\Users\ramon\Desktop\Practice\Krapz\obj\Debug\net8.0\Krapz.csproj.CoreCompileInputs.cache
+C:\Users\ramon\Desktop\Practice\Krapz\obj\Debug\net8.0\Krapz.dll
+C:\Users\ramon\Desktop\Practice\Krapz\obj\Debug\net8.0\refint\Krapz.dll
+C:\Users\ramon\Desktop\Practice\Krapz\obj\Debug\net8.0\Krapz.pdb
+C:\Users\ramon\Desktop\Practice\Krapz\obj\Debug\net8.0\Krapz.genruntimeconfig.cache
+C:\Users\ramon\Desktop\Practice\Krapz\obj\Debug\net8.0\ref\Krapz.dll
